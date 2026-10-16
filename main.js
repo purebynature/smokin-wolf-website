@@ -1,18 +1,18 @@
 (function(){
 var IM={
- "mark": "assets/mark.webp",
- "word": "assets/word.webp",
- "logo": "assets/logo.webp",
- "freeze": "assets/freeze.webp",
- "diamond": "assets/diamond.webp",
- "dabber": "assets/dabber.webp",
- "grav": "assets/grav.webp",
- "pair": "assets/pair.webp",
- "angel": "assets/angel.webp",
- "street": "assets/street.webp",
- "hot": "assets/hot.webp",
- "pipe": "assets/pipe.webp",
- "smokebg": "assets/smokebg.jpg"
+ "mark": "mark.webp",
+ "word": "word.webp",
+ "logo": "logo.webp",
+ "freeze": "freeze.webp",
+ "diamond": "diamond.webp",
+ "dabber": "dabber.webp",
+ "grav": "grav.webp",
+ "pair": "pair.webp",
+ "angel": "angel.webp",
+ "street": "street.webp",
+ "hot": "hot.webp",
+ "pipe": "pipe.webp",
+ "smokebg": "smokebg.jpg"
 };
 var $=function(i){return document.getElementById(i)},rm=matchMedia('(prefers-reduced-motion:reduce)').matches,i;
 var h=$('h1'),n=0;
